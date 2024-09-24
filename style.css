@@ -1,0 +1,76 @@
+body {
+    margin: 0 !important;
+    padding: 0 !important;
+    ;
+}
+
+.banner {
+    border: 1px;
+    height: 865px;
+    width: 100%;
+    box-sizing: border-box;
+    padding: 20px;
+    background: url(./banner.jpg) center center no-repeat;
+}
+
+.red {
+    border: 1px solid red;
+
+}
+
+.green {
+    border: 1px solid green;
+}
+
+.about-sign-in {
+    height: 80px;
+    width: 100%;
+    text-align: right;
+
+}
+
+.about,
+.sign-in {
+    margin-top: 15px;
+    text-decoration: none;
+    display: inline-block;
+    padding: 7px 15px;
+
+}
+
+.sign-in {
+    margin-right: 80px;
+    margin-left: 20px;
+    border-radius: 20px;
+    border: 1px solid green;
+}
+
+.logo {
+    background: url('./hapoERP.png') center center no-repeat;
+    margin-top: 40px;
+    height: 100px;
+}
+
+.text {
+    text-align: center;
+    margin-top: 30px;
+}
+
+.btn-start-now {
+    text-align: center;
+}
+
+button {
+    text-transform: uppercase;
+    padding: 10px 15px;
+    border-radius: 20px;
+    border: 1px solid green;
+    margin-top: 25px;
+    /* bien con tro thanh hinh ban tay */
+    cursor: pointer;
+}
+
+.content-center {
+    height: 50px;
+    border: 1px solid red;
+}

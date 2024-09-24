@@ -1,0 +1,5 @@
+HTML elements: 
+<tagname> code </tagname>.
+for example, <p> ~ paragraph <p> Trang here </p>
+HTML attributes: provide additional information about elements
+các phần tử và thêm thuộc tính(màu, size.... cho thuộc tính đó)
